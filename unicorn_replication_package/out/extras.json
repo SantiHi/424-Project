@@ -1,0 +1,133 @@
+{
+ "r1_freak_t": [
+  2.2833816482948435,
+  0.03015145776915953
+ ],
+ "r1_freak_ci": [
+  0.029257615080418107,
+  0.737934354674296
+ ],
+ "r1_fisher_bust": 0.05981763011924192,
+ "r1_fisher_steal": 0.021435852469768042,
+ "median_z": {
+  "Freak": -0.104,
+  "Odd build": -0.297,
+  "Red flag": -0.495,
+  "Typical": -0.312
+ },
+ "redflag_ex_brady": -0.08634933931628982,
+ "per_class": {
+  "2000": 21,
+  "2001": 21,
+  "2002": 15,
+  "2003": 17,
+  "2004": 17,
+  "2005": 21,
+  "2006": 24,
+  "2007": 12,
+  "2008": 26,
+  "2009": 11,
+  "2010": 14,
+  "2011": 15,
+  "2012": 9,
+  "2013": 12,
+  "2014": 12,
+  "2015": 15,
+  "2016": 10,
+  "2017": 10,
+  "2018": 11,
+  "2019": 14,
+  "2020": 5,
+  "2021": 43,
+  "2022": 12,
+  "2023": 5,
+  "2024": 7,
+  "2025": 5,
+  "2026": 6
+ },
+ "undrafted_freaks": [
+  "Chris McKenzie",
+  "Nickell Robey",
+  "Darius Hodge",
+  "Jarvis Borum",
+  "Alex Jackson",
+  "Justin Sands",
+  "Tyree Jackson",
+  "Alex Barnes",
+  "Trent Gamble",
+  "T.J. Moe",
+  "Jmon Moore",
+  "Jacob Harris",
+  "Josh Imatorbhebhe"
+ ],
+ "n_classes": 27,
+ "n_drills_mean": 4.578933680104031,
+ "imputed_share": 0.23684438664932816,
+ "flag_overlap": {
+  "all3": 155,
+  "any": 541,
+  "if": 326,
+  "lof": 325,
+  "md": 348
+ },
+ "view_overlap": {
+  "both": 142,
+  "full_only": 247,
+  "core_only": 246
+ },
+ "spearman_full": [
+  [
+   1.0,
+   0.87,
+   0.9
+  ],
+  [
+   0.87,
+   1.0,
+   0.94
+  ],
+  [
+   0.9,
+   0.94,
+   1.0
+  ]
+ ],
+ "grade_by_round": {
+  "1": {
+   "Bust": 0.23,
+   "Good value": 0.588,
+   "Steal": 0.182
+  },
+  "2": {
+   "Bust": 0.241,
+   "Good value": 0.579,
+   "Steal": 0.18
+  },
+  "3": {
+   "Bust": 0.219,
+   "Good value": 0.599,
+   "Steal": 0.182
+  },
+  "4": {
+   "Bust": 0.202,
+   "Good value": 0.618,
+   "Steal": 0.18
+  },
+  "5": {
+   "Bust": 0.012,
+   "Good value": 0.806,
+   "Steal": 0.181
+  },
+  "6": {
+   "Bust": 0.0,
+   "Good value": 0.863,
+   "Steal": 0.137
+  },
+  "7": {
+   "Bust": 0.0,
+   "Good value": 0.874,
+   "Steal": 0.126
+  }
+ },
+ "n_valued": 5769
+}

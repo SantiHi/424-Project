@@ -1,0 +1,16 @@
+2026 prospects matched to a draft pick: 211 of 319
+namesake rows dropped: 10
+position players: 8528 -> modelling sample: 7699
+grp
+WR      1156
+CB       875
+EDGE     826
+IOL      726
+LB       723
+RB       716
+OT       608
+DT       604
+S        600
+TE       452
+QB       413
+drafted share: 0.66
